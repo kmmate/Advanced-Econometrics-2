@@ -12,3 +12,8 @@ Problem set 2:
   - data_prepare.m prepares the data for use with Python
   - matching.py is the main module for matching estimators of ATT and ATE
   - distance_functions.py is needed for matching.py
+  
+  Problem set 3:
+  - advecon2ps3_pr1.py contains Problem 1
+  - advecon2ps3_pr4.py contains Problem 4
+  - robustse.py contains the bootstrapping function for advecon2ps3_p4.py
